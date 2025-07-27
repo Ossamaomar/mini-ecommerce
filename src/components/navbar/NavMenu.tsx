@@ -2,7 +2,6 @@ import {
   Navbar,
   NavbarBrand,
   NavbarCollapse,
-  NavbarLink,
   NavbarToggle,
 } from "flowbite-react";
 import { Link } from "react-router-dom";
